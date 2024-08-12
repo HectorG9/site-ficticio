@@ -1,4 +1,4 @@
-@import url("./global.css");
+@import url('./global.css');
 
 .navbar {
     background-color: var(--green);
@@ -38,16 +38,22 @@ footer {
 footer a {
     color: var(--white);
     text-decoration: none;
+    margin: 10px;
 }
+
 footer a:hover {
     color: darkblue;
 }
+
 .social-media {
     margin: 20px;
 }
+
+
 .media-icon {
     width: 30px;
 }
 .parag {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
